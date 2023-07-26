@@ -2,7 +2,7 @@
 
 ## Project in Youtube by Code with Antonio
 
-Open [https://www.youtube.com/watch?v=PGPGcKBpAk8&list=PLL5vuji8JpzEzYwKpFiDY1e3AemLsXAzh&index=4]
+https://www.youtube.com/watch?v=PGPGcKBpAk8&list=PLL5vuji8JpzEzYwKpFiDY1e3AemLsXAzh&index=4
 
 ## Progress
 

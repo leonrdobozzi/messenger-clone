@@ -6,22 +6,22 @@ Open [https://www.youtube.com/watch?v=PGPGcKBpAk8&list=PLL5vuji8JpzEzYwKpFiDY1e3
 
 ## Progress
 
-[x] Intro
-[x] Environment setup
-[x] Auth Setup
-[x] Auth UI
-[] MongoDB, Prisma setup
-[] NextAuth Setup
-[] Register Functionality
-[] Login Functionality and Social Login (Google and Github)
-[] Sidebar, Navigation and Layout
-[] Users screen and Conversations screen, Conversation Creation
-[] Messages creation, Message Image upload
-[] Profile Drawer
-[] Settings functionality, Modal component
-[] Group chat functionality, Image Modal, Loading states
-[] Real time messages, conversations, read receipts and active status with Pusher
-[] Deploy to Vercel, fix Google and Github social sign in in deployment
+[x] Intro <br>
+[x] Environment setup <br>
+[x] Auth Setup <br>
+[x] Auth UI <br>
+[] MongoDB, Prisma setup <br>
+[] NextAuth Setup <br>
+[] Register Functionality <br>
+[] Login Functionality and Social Login (Google and Github) <br>
+[] Sidebar, Navigation and Layout <br>
+[] Users screen and Conversations screen, Conversation Creation <br>
+[] Messages creation, Message Image upload <br>
+[] Profile Drawer <br>
+[] Settings functionality, Modal component <br>
+[] Group chat functionality, Image Modal, Loading states <br>
+[] Real time messages, conversations, read receipts and active status with Pusher <br>
+[] Deploy to Vercel, fix Google and Github social sign in in deployment <br>
 
 ## Getting Started
 

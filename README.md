@@ -10,11 +10,11 @@ https://www.youtube.com/watch?v=PGPGcKBpAk8&list=PLL5vuji8JpzEzYwKpFiDY1e3AemLsX
 [x] Environment setup <br>
 [x] Auth Setup <br>
 [x] Auth UI <br>
-[ ] MongoDB, Prisma setup <br>
-[ ] NextAuth Setup <br>
-[ ] Register Functionality <br>
-[ ] Login Functionality and Social Login (Google and Github) <br>
-[ ] Sidebar, Navigation and Layout <br>
+[x] MongoDB, Prisma setup <br>
+[x] NextAuth Setup <br>
+[x] Register Functionality <br>
+[x] Login Functionality and Social Login (Google and Github) <br>
+[x] Sidebar, Navigation and Layout <br>
 [ ] Users screen and Conversations screen, Conversation Creation <br>
 [ ] Messages creation, Message Image upload <br>
 [ ] Profile Drawer <br>
